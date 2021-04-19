@@ -144,3 +144,224 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.top-nav{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
+}
+.top-nav a{
+    margin-top: rem;
+    margin-left: 3rem;
+    margin-right: 4rem;
+    width: 20px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.lambda-black{
+    margin-right: 2rem;
+   
+    width: 100px;
+    margin-top: -1rem;
+
+}
+
+.text-container{
+    margin-top: 2rem;
+}
+
+.top-nav-about{
+    width: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+    margin-right: 8rem;
+}
+
+.top-nav-about a{
+    
+    margin-left: 3rem;
+    width: 10px;
+    text-decoration: none;
+    color: black;
+    margin-top: 1.5rem;
+    margin-right: 6.2rem;
+    
+}
+
+.top-nav-about a:nth-child(1){
+    
+    margin-left: 4rem;
+    width: 10px;
+    text-decoration: none;
+    color: black;
+    margin-top: 1.5rem;
+    
+}
+
+.jumbo-about{
+    margin-left: 9rem;
+    width: 70%;
+ 
+}
+
+.lambda-black-about{
+    margin-left: 6rem;
+}
+
+
+.top-text {
+    display: flex;
+    flex-direction: row;
+  
+}
+
+.first-row{
+    display: flex;
+    justify-content: space-between;
+    margin-left:-2.2rem;
+    margin-right: rem;
+}
+
+.image-row{
+    display:flex;
+    justify-content: space-between;
+    margin-left: -3rem;
+    margin-top:2rem;
+}
+
+.buttons{
+    margin-top: 15rem;
+    border: 4px solid darkgoldenrod;
+}
+.first-row h3{
+    margin-right: 10rem;
+}
+
+.first-row > p{
+    display:flex;
+    align-self: baseline;
+}
+
+h2{
+    margin-left: -4rem;
+}
+
+.about p{
+    margin-left: -3rem;
+}
+
+.about p:nth-child(1){
+    margin-left: -4rem;
+}
+.boxes .box:nth-child(1){
+    background-color: teal;
+
+}
+
+.boxes .box:nth-child(2){
+    background-color: gold;
+
+}
+
+.boxes .box:nth-child(3){
+    background-color: cadetblue;
+
+}
+
+.boxes .box:nth-child(4){
+    background-color: coral;
+
+}
+
+.boxes .box:nth-child(5){
+    background-color: crimson;
+
+}
+
+.boxes .box:nth-child(6){
+    background-color: forestgreen;
+
+}
+
+.boxes .box:nth-child(7){
+    background-color: darkorchid;
+
+}
+
+.boxes .box:nth-child(8){
+    background-color: hotpink;
+
+}
+
+.boxes .box:nth-child(9){
+    background-color: indigo;
+
+}
+
+.boxes .box:nth-child(10){
+    background-color: dodgerblue;
+
+}
+
+.main-box{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.about-box{
+  width: 45%;
+  border-bottom: 2px dotted black;
+}
+
+.about-box h2{
+    margin-left: 1rem;
+}
+.about-box button{
+margin-bottom: 2rem;
+margin-top: 2rem;
+}
+
+.work-together h2{
+  margin-top:4rem;
+}
+
+.intro{
+    margin-left: 3rem;
+}
+
+
+.intro h2{
+    margin-left: 8rem;
+}
+
+.work-together h2{
+    margin-left:  8rem;
+}
+
+.bottom-nav-about {
+   
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+
+}
+
+.bottom-nav-about a{
+    
+    margin-left: 3rem;
+    width: 15px;
+    text-decoration: none;
+    color: white;
+    margin-top: 1.5rem;
+    margin-right: 6.2rem;
+   
+    
+}
